@@ -1,2 +1,2 @@
-# image-steganography
-A python client to implement image steganography using LSB method.
+# sha-256
+A C client to implement SHA-256 encryption.
